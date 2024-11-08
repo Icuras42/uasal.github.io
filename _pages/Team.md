@@ -76,6 +76,10 @@ Some of UASAL's frequent collaborators include:
 
 ## TimeStep Interns
 
+### 2024-25
+- Joel Shernicoff
+- Claire Srodawa
+- Nikoli Cooper
 ### 2023-24
 - Philip Klaassen
 - Diego Torres
